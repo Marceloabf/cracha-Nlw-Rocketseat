@@ -1,5 +1,5 @@
 # cracha-Nlw-Rocketseat
-/--EN--/;
+/--EN--/ <br>
 Virtual badge created during an event by Rocketseat named NLW(Next level week);
 The responsiveness can be improved according to your goal, in my case it was just for desktop and some mobiles;
 /--PT--/;
